@@ -1,45 +1,62 @@
-# ekonomi-analiz
-# Turkiye Ekonomi Analizi ve Makine Ogrenmesi Tahmini
+# 📊 Data Analysis Project
 
-2019-2024 yillari arasindaki Turkiye ekonomi verilerini analiz eden
-ve 2025-2026 tahmini yapan Python projesi.
+A data analysis project focused on exploring datasets, extracting insights, and visualizing trends using Python.
 
-## Proje Hakkinda
+---
 
-Bu proje ucunu bir arada yapiyor:
-1. Gercek ekonomi verilerini analiz eder
-2. Enflasyon, issizlik ve dolar kuru arasindaki iliskiyi gorseller
-3. Makine ogrenmesi ile gelecek tahmini yapar
+## 🚀 Project Overview
 
-## Sonuclar
+This project analyzes real-world datasets to find patterns, trends, and meaningful insights. It demonstrates data cleaning, processing, and visualization techniques.
 
-En yuksek enflasyon: %72.3 (2022)
-En dusuk issizlik: %8.8 (2024)
+---
 
-2025 Tahmini: Enflasyon %83.9 | Dolar 34.56 TL
-2026 Tahmini: Enflasyon %96.4 | Dolar 39.95 TL
+## ✨ Features
 
-## Kullanilan Teknolojiler
+- 📂 Data cleaning and preprocessing
+- 📊 Statistical analysis
+- 📈 Data visualization (charts, graphs)
+- 🔍 Insight extraction
+- 🧠 Pattern recognition
+
+---
+
+## 🛠️ Technologies Used
 
 - Python
-- Pandas (veri analizi)
-- Matplotlib ve Seaborn (gorsellestirme)
-- Scikit-learn (makine ogrenmesi)
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
-## Nasil Calistirilir
+---
 
-pip install pandas matplotlib seaborn scikit-learn
-python analiz.py
+## 🎯 Purpose
 
-## Gorseller
+To improve skills in data analysis, visualization, and working with real datasets.
 
-3 grafik otomatik olusturulur:
-- ekonomi_grafik.png: Enflasyon, issizlik, dolar ayri ayri
-- korelasyon_grafik.png: Uc veri tek grafikte
-- tahmin_grafik.png: 2025-2026 makine ogrenmesi tahmini
+---
 
-## Gelistirici
+## 📸 Preview
 
-Van dogumlu, veri bilimi ve ekonomiye ilgi duyan yazilim gelistirici.
-MIT hedefli proje portfolyosu icin gelistirilmistir.
+(Add charts and graphs here)
 
+---
+
+## 📈 Future Improvements
+
+- Machine learning integration
+- Bigger datasets
+- Interactive dashboard (Streamlit / Power BI)
+- Real-time data analysis
+
+---
+
+## 👨‍💻 Author
+
+Ali
+
+---
+
+## 📌 Note
+
+This project is part of my learning journey in data science and analytics.
